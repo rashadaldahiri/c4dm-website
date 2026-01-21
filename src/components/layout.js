@@ -107,7 +107,7 @@ const Layout = ({children, crumbs, name, hero}) => {
                   rel="Internal Site Link"
                 >Internal Site</a><br/>
 		<a
-                  href="https://c4dm.eecs.qmul.ac.uk/wiki/doku.php?id=start"
+                  href="https://github.qmul.ac.uk/eecs-c4dm/wiki/wiki"
                   target="_blank"
                   rel="C4DM wiki Link"
                 >C4DM Wiki</a>                
